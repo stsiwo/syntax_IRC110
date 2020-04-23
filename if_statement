@@ -1,0 +1,6 @@
+var weather = "Sunny";
+if(weather === "rainy") {
+    alert("Take your umbrella with you");
+} else { 
+    alert("Don't take your umbrella");
+}
